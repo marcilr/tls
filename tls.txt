@@ -1,0 +1,20 @@
+tls.txt
+Created Fri Apr 26 14:53:26 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Transport Layer Security (TLS)
+
+
+TLS is a cryptographic protocol that provides end-to-end
+communications security over networks and is widely used
+for internet communications and online transactions.  It
+is an IETF standard intended to prevent eavesdropping,
+tampering and message forgery.  Nov 9, 2018
+--www.networkworld.com/article/2303073/lan-wan-what-is-transport-layer-security-protocol.html
+
+
+Links
+=====
+What is Transport Layer Security (TLS)? | Network World
+networkworld.com/article/2303073/lan-wan-what-is-transport-layer-security-protocol.html
